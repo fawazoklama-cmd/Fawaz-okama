@@ -1,0 +1,8 @@
+{
+  "name": "FawMan Playground",
+  "description": "Bilingual (EN & ID) multiplayer game platform featuring 50 casual games, on-mic voice chat, and local profile customization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
